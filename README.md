@@ -6,7 +6,8 @@
 
 ## Использование
 
-```
+```php
+
 use \Demo\HelloWorldService;
 
 require_once "vendor/autoload.php";
