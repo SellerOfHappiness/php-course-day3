@@ -4,7 +4,9 @@
 
 ## Установка
 
-> Coming soon
+```bash
+composer require seller-of-happiness/php-day3
+```
 
 ## Использование
 
